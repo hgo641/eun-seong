@@ -1,4 +1,8 @@
-### Hi there 👋
+## 실력있는 개발자가 되고 싶어요
+* SW마에스트로 11기 인증
+* `React.js`에 집중하는 중
+
+
 
 <!--
 **eun-seong/eun-seong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
