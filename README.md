@@ -6,7 +6,7 @@
 
 ### About
 💡 **blog** [https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)   
-💡 **TIL** 준비 중 <!--[https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)-->
+💡 **TIL** 준비 중 <!--[https://eun-seong.github.io/TIL](https://eun-seong.github.io/TIL)-->
 
 ### Solved.ac
 [![Solved.ac
