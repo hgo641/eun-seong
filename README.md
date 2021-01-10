@@ -1,7 +1,16 @@
+
+
 ## 실력있는 개발자가 되고 싶어요
-* SW마에스트로 11기 인증
+* SW마에스트로 11기 우수자
 * `React.js`에 집중하는 중
 
+### About
+💡 **blog** [https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)   
+💡 **TIL** 준비 중 <!--[https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)-->
+
+### Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=les2444)](https://solved.ac/les2444)
 
 
 <!--
