@@ -1,6 +1,7 @@
 ## 공부하는 개발자
-* SW마에스트로 11기 우수자
-* `React.js`에 집중하는 중
+* 👩‍💻 SW마에스트로 11기 우수자
+* 🏢 Naver Glace CIC 인턴십 진행 중
+* 📚 Kafka, Spring 공부 중
 
 ### About
 💡 **blog** [https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)   
