@@ -4,7 +4,7 @@
 * 📚 Data Science 공부 중
 
 ### About
-💡 **포트폴리오** [notion portfolio](https://www.notion.so/eunseong/0e35606c8c7f4a8c877cb340e2686fd6)    
+💡 **portfolio** [notion portfolio](https://www.notion.so/eunseong/0e35606c8c7f4a8c877cb340e2686fd6)    
 💡 **blog** [https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)   
 💡 **TIL** [https://eun-seong.github.io/TIL](https://eun-seong.github.io/TIL)
 
