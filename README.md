@@ -1,7 +1,7 @@
 ## 꾸준히 성장하는 개발자
+* 👩‍💻 우아한테크캠프 4기
 * 👩‍💻 SW마에스트로 11기 우수자
 * 🎓 컴퓨터공학 & 통계학 전공
-* 📚 Data Science 공부 중
 
 ### About
 💡 **portfolio** [👉 제가 궁금하시다면 👈](https://www.notion.so/eunseong/0e35606c8c7f4a8c877cb340e2686fd6)    
