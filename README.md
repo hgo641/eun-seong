@@ -4,7 +4,7 @@
 * 🎓 컴퓨터공학 & 통계학 전공
 
 ### About
-💡 **portfolio** [👉 제가 궁금하시다면 👈](https://www.notion.so/eunseong/0e35606c8c7f4a8c877cb340e2686fd6)    
+💡 **portfolio** [👉 제가 궁금하시다면 👈](https://eunseong.notion.site/0e35606c8c7f4a8c877cb340e2686fd6)    
 💡 **blog** [https://programmer-eun.tistory.com/](https://programmer-eun.tistory.com/)   
 
 
