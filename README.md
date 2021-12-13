@@ -19,8 +19,9 @@
 
 
 
-✨  <I>[RESUME](https://eunseong.notion.site/0e35606c8c7f4a8c877cb340e2686fd6)</I>      
-✏️  <I>[tistory](https://programmer-eun.tistory.com/)</I>    
+✨  <I>[RESUME](https://eunseong.notion.site/0e35606c8c7f4a8c877cb340e2686fd6)</I>    
+🌱  <I>[PORTFOLIO](https://eunseong.notion.site/portfolio-9cc7daa83ff243378ed0e031e64f92bf)</I>      
+✏️  <I>[TISTORY](https://programmer-eun.tistory.com/)</I>    
 
 
 
