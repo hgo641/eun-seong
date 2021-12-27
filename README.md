@@ -1,4 +1,4 @@
-## 꾸준히 성장하는 개발자
+## *Front-end Developer*, 꾸준히 성장하는 개발자
 ![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
 ![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
